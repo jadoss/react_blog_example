@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react_blog_example/static/js/main.08c71bea.chunk.js",
+    "main.js.map": "/react_blog_example/static/js/main.08c71bea.chunk.js.map",
+    "runtime-main.js": "/react_blog_example/static/js/runtime-main.a5f0b2e5.js",
+    "runtime-main.js.map": "/react_blog_example/static/js/runtime-main.a5f0b2e5.js.map",
+    "static/js/2.98930ebf.chunk.js": "/react_blog_example/static/js/2.98930ebf.chunk.js",
+    "static/js/2.98930ebf.chunk.js.map": "/react_blog_example/static/js/2.98930ebf.chunk.js.map",
+    "index.html": "/react_blog_example/index.html",
+    "precache-manifest.4aab3c55a69bef1edaf9a849d9648d09.js": "/react_blog_example/precache-manifest.4aab3c55a69bef1edaf9a849d9648d09.js",
+    "service-worker.js": "/react_blog_example/service-worker.js"
+  }
+}
